@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1495005450 source:d:\codes\c++\exercise\operator\main.cpp
+	<iostream>
+	"Operator.h"
+
+1495005411 d:\codes\c++\exercise\operator\include\operator.h
+	<iostream>
+	<iomanip>
+
+1495005190 source:d:\codes\c++\exercise\operator\src\operator.cpp
+	"Operator.h"
+

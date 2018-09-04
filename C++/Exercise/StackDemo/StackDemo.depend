@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1498031595 source:d:\codes\c++\exercise\stackdemo\main.cpp
+	"StackDemo.h"
+	"Cal.h"
+	<iostream>
+
+1498031451 d:\codes\c++\exercise\stackdemo\stackdemo.h
+	<iostream>
+	"Array.h"
+
+1369711926 d:\codes\c++\exercise\stackdemo\array.h
+	<cassert>
+
+1498031929 d:\codes\c++\exercise\stackdemo\cal.h
+	"StackDemo.h"
+

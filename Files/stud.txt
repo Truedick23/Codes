@@ -1,0 +1,45 @@
+No.1 student:
+Name:	awd
+Number:	23
+Scores:
+No.1 subject: 34.000000
+No.2 subject: 342.000000
+No.3 subject: 35.000000
+Average score:	137.000000
+
+No.2 student:
+Name:	vsd
+Number:	34
+Scores:
+No.1 subject: 345.000000
+No.2 subject: 234.000000
+No.3 subject: 3423.000000
+Average score:	1334.000000
+
+No.3 student:
+Name:	ver
+Number:	3423
+Scores:
+No.1 subject: 545.000000
+No.2 subject: 43.000000
+No.3 subject: 5345.000000
+Average score:	1977.666667
+
+No.4 student:
+Name:	vdsfv
+Number:	45
+Scores:
+No.1 subject: 34.000000
+No.2 subject: 345.000000
+No.3 subject: 345.000000
+Average score:	241.333333
+
+No.5 student:
+Name:	dvsdv
+Number:	45
+Scores:
+No.1 subject: 5646.000000
+No.2 subject: 45.000000
+No.3 subject: 345.000000
+Average score:	2012.000000
+

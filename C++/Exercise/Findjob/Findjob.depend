@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1493795706 source:d:\codes\c++\exercise\findjob\main.cpp
+	"JobCenter.h"
+
+1493795719 d:\codes\c++\exercise\findjob\jobcenter.h
+	<iostream>
+

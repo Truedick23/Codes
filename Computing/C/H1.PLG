@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: H1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\lenovo\AppData\Local\Temp\RSPD344.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/H1.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Computing\C\h2.c"
+]
+Creating command line "cl.exe @C:\Users\lenovo\AppData\Local\Temp\RSPD344.tmp" 
+Creating temporary file "C:\Users\lenovo\AppData\Local\Temp\RSPD345.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/H1.pdb" /debug /machine:I386 /out:"Debug/H1.exe" /pdbtype:sept 
+.\Debug\h1.obj
+.\Debug\h2.obj
+.\Debug\h3.obj
+]
+Creating command line "link.exe @C:\Users\lenovo\AppData\Local\Temp\RSPD345.tmp"
+<h3>Output Window</h3>
+Compiling...
+h2.c
+D:\Computing\C\h2.c(6) : error C2015: too many characters in constant
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+H1.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
